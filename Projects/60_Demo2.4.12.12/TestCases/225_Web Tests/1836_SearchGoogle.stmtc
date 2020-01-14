@@ -13,7 +13,7 @@
     "Authentication": null,
     "TestSteps": [
       {
-        "TempId": 18205,
+        "TempId": 18211,
         "StepNumber": 1,
         "ActionId": 27,
         "ComponentId": null,
@@ -38,7 +38,7 @@
         "Modified": null
       },
       {
-        "TempId": 18206,
+        "TempId": 18212,
         "StepNumber": 2,
         "ActionId": 1,
         "ComponentId": null,
@@ -63,7 +63,7 @@
         "Modified": null
       },
       {
-        "TempId": 18202,
+        "TempId": 18208,
         "StepNumber": 3,
         "ActionId": 1,
         "ComponentId": null,
@@ -88,7 +88,7 @@
         "Modified": null
       },
       {
-        "TempId": 18203,
+        "TempId": 18209,
         "StepNumber": 4,
         "ActionId": 47,
         "ComponentId": null,
@@ -113,7 +113,7 @@
         "Modified": null
       },
       {
-        "TempId": 18204,
+        "TempId": 18210,
         "StepNumber": 5,
         "ActionId": 91,
         "ComponentId": null,
@@ -126,7 +126,7 @@
         "SkipStep": true,
         "Description": null,
         "Locator": null,
-        "Value": "equals:Hexaware",
+        "Value": "equals:Hexa",
         "Status": "Pending",
         "UserSays": null,
         "BotSays": null,
@@ -138,7 +138,7 @@
         "Modified": null
       },
       {
-        "TempId": 18201,
+        "TempId": 18207,
         "StepNumber": 6,
         "ActionId": 43,
         "ComponentId": null,
