@@ -1,0 +1,36 @@
+{
+  "TempId": 507,
+  "Name": "PowerPoint",
+  "ProjectId": 60,
+  "DictionaryPageType": 1,
+  "Objects": [
+    {
+      "TempId": 67676,
+      "LocatorType": 4,
+      "Locator": "Blank Presentation",
+      "PageId": 507,
+      "OuterHTML": ""
+    },
+    {
+      "TempId": 67677,
+      "LocatorType": 4,
+      "Locator": "Insert",
+      "PageId": 507,
+      "OuterHTML": ""
+    },
+    {
+      "TempId": 67678,
+      "LocatorType": 4,
+      "Locator": "Shapes",
+      "PageId": 507,
+      "OuterHTML": ""
+    },
+    {
+      "TempId": 67679,
+      "LocatorType": 4,
+      "Locator": "Slide 1",
+      "PageId": 507,
+      "OuterHTML": ""
+    }
+  ]
+}
