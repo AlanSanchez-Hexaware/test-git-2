@@ -126,7 +126,7 @@
         "SkipStep": true,
         "Description": null,
         "Locator": null,
-        "Value": "equals:Hexaware123",
+        "Value": "equals:Hexa",
         "Status": "Pending",
         "UserSays": null,
         "BotSays": null,
