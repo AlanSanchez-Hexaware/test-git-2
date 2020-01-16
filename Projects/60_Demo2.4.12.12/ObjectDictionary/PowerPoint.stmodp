@@ -7,7 +7,7 @@
     {
       "TempId": 67676,
       "LocatorType": 4,
-      "Locator": "Blank Presentation",
+      "Locator": "Blank",
       "PageId": 507,
       "OuterHTML": ""
     },
@@ -28,7 +28,7 @@
     {
       "TempId": 67679,
       "LocatorType": 4,
-      "Locator": "Slide 1",
+      "Locator": "Slide 100",
       "PageId": 507,
       "OuterHTML": ""
     }
