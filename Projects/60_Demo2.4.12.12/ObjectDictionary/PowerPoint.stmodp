@@ -1,6 +1,6 @@
 {
   "TempId": 507,
-  "Name": "PowerPoint",
+  "Name": "PowerPointChange",
   "ProjectId": 60,
   "DictionaryPageType": 1,
   "Objects": [
@@ -31,7 +31,15 @@
     {
       "TempId": 67679,
       "LocatorType": 4,
-      "Locator": "Slide 1",
+      "Locator": "Changed object",
+      "PageId": 507,
+      "OuterHTML": "",
+      "Name": "Slide 1"
+    }
+    {
+      "TempId": 0,
+      "LocatorType": 4,
+      "Locator": "New Object",
       "PageId": 507,
       "OuterHTML": "",
       "Name": "Slide 1"
