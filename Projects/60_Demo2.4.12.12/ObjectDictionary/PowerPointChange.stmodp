@@ -1,13 +1,13 @@
 {
   "TempId": 507,
-  "Name": "PowerPointChange",
+  "Name": "PowerPointChange2",
   "ProjectId": 60,
   "DictionaryPageType": 1,
   "Objects": [
     {
       "TempId": 67676,
       "LocatorType": 4,
-      "Locator": "Blank Presentation",
+      "Locator": "Blank Presentation change",
       "PageId": 507,
       "OuterHTML": "",
       "Name": "BlankPresentation"
