@@ -3,22 +3,5 @@
   "Name": "Global",
   "ProjectId": 60,
   "DictionaryPageType": 1,
-  "Objects": [
-    {
-      "TempId": 71690,
-      "LocatorType": 4,
-      "Locator": "q",
-      "PageId": null,
-      "OuterHTML": null,
-      "Name": "asd"
-    },
-    {
-      "TempId": 71691,
-      "LocatorType": 4,
-      "Locator": "q",
-      "PageId": null,
-      "OuterHTML": null,
-      "Name": "asda"
-    }
-  ]
+  "Objects": []
 }
