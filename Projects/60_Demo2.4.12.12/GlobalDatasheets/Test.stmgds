@@ -1,0 +1,28 @@
+{
+  "Id": 6,
+  "ProjectId": 60,
+  "Name": "Test",
+  "Parameters": [
+    {
+      "Id": 1074,
+      "ProjectId": 60,
+      "Key": "GDT_Test1",
+      "Value": "One",
+      "GlobalSheetId": 6
+    },
+    {
+      "Id": 1090,
+      "ProjectId": 60,
+      "Key": "GDT_Test2",
+      "Value": "2",
+      "GlobalSheetId": 6
+    },
+    {
+      "Id": 1092,
+      "ProjectId": 60,
+      "Key": "GDT_Test3",
+      "Value": "3",
+      "GlobalSheetId": 6
+    }
+  ]
+}
