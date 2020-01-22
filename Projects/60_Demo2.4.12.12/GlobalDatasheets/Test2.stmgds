@@ -8,21 +8,21 @@
       "ProjectId": 60,
       "Key": "GDT_Test1",
       "Value": "Uno",
-      "GlobalSheetId": 6
+      "GlobalSheetId": 10
     },
     {
       "Id": 1090,
       "ProjectId": 60,
       "Key": "GDT_Test2E",
       "Value": "Dos",
-      "GlobalSheetId": 6
+      "GlobalSheetId": 10
     },
     {
       "Id": 1092,
       "ProjectId": 60,
       "Key": "GDT_Test3",
       "Value": "Three",
-      "GlobalSheetId": 6
+      "GlobalSheetId": 10
     }
   ]
 }
