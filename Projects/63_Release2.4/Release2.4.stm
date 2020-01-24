@@ -1,4 +1,4 @@
-{
+﻿{
   "Name": "Release2.4",
   "Description": "",
   "QTest_ProjectDomain": null,
@@ -10,7 +10,7 @@
     {
       "TempId": 28,
       "TestExecutionCycleId": null,
-      "Name": "testCA",
+      "Name": "testCAOnline",
       "Children": "",
       "TestSets": [],
       "ChildrenFolders": [],
