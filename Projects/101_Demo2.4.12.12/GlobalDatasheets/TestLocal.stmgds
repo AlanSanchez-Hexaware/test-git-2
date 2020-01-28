@@ -1,0 +1,28 @@
+{
+  "Id": 53,
+  "ProjectId": 101,
+  "Name": "TestLocal",
+  "Parameters": [
+    {
+      "Id": 1507,
+      "ProjectId": 101,
+      "Key": "GDT_Test1",
+      "Value": "One",
+      "GlobalSheetId": 53
+    },
+    {
+      "Id": 1508,
+      "ProjectId": 101,
+      "Key": "GDT_Test2E",
+      "Value": "2",
+      "GlobalSheetId": 53
+    },
+    {
+      "Id": 1509,
+      "ProjectId": 101,
+      "Key": "GDT_Test3",
+      "Value": "3Online",
+      "GlobalSheetId": 53
+    }
+  ]
+}
