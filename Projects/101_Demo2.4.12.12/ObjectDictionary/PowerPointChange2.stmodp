@@ -1,0 +1,16 @@
+{
+  "TempId": 865,
+  "Name": "PowerPointChange2",
+  "ProjectId": 101,
+  "DictionaryPageType": 1,
+  "Objects": [
+    {
+      "TempId": 101563,
+      "LocatorType": 4,
+      "Locator": "Slide 1",
+      "PageId": 865,
+      "OuterHTML": "",
+      "Name": "Slide 1"
+    }
+  ]
+}
