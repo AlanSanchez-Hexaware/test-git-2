@@ -1,0 +1,21 @@
+[
+  {
+    "TempId": 3141,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Name": "asd",
+    "Created": null,
+    "Modified": null
+  }
+]
