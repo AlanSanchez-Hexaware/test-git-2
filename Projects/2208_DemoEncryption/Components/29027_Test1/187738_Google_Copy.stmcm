@@ -41,7 +41,7 @@
         "Locator": "GDT_Test",
         "ActionId": 43,
         "ParameterName": null,
-        "ParameterValue": "Cats",
+        "ParameterValue": "Dogs",
         "CustomActionId": null,
         "ObjectDictionaryId": null,
         "ImageRepositoryId": null,
