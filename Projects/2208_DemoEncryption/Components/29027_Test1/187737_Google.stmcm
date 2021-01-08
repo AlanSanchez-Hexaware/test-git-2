@@ -6,7 +6,7 @@
     "TestCaseType": 1,
     "Steps": [
       {
-        "TempId": 2475319,
+        "TempId": 2476601,
         "StepNumber": 1,
         "Description": null,
         "LocatorTypeId": null,
@@ -32,7 +32,7 @@
         "Modified": null
       },
       {
-        "TempId": 2475320,
+        "TempId": 2476602,
         "StepNumber": 2,
         "Description": null,
         "LocatorTypeId": 4,
@@ -58,7 +58,7 @@
         "Modified": null
       },
       {
-        "TempId": 2475321,
+        "TempId": 2476603,
         "StepNumber": 3,
         "Description": null,
         "LocatorTypeId": null,
